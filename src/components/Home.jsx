@@ -18,7 +18,7 @@ const Home = () => {
           </h1>
           <p className="primary-text">
             Healthy switcher chefs do all the prep work, like peeding, chopping
-            & marinating, so you can cook a fresh food.
+            & marinating, so you can cook a fresh food at your home.
           </p>
           <button className="secondary-button">
             Order Now <FiArrowRight />{" "}
